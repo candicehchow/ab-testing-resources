@@ -55,6 +55,7 @@ This GitHub is a companion to our blog post ["Recommend Resources for Starting A
 * [So You Think You Can Test](https://www.lukasvermeer.nl/confidence/) - Simulation game to test and develop your experiment analysis skills.
 * [Test and Roll](https://testandroll.shinyapps.io/testandroll/) - Sample size planning with the Test and Roll framework (advanced).
 * [GoodUI](https://goodui.org/) - Repository of winning UIs from A/B tests. YMMV.
+* [Statsig](https://statsig.com/) - All-in-one platform spanning across analytics, feature flagging, and A/B testing. Free for up to 1m metered events per month.
 
 
 ## Software Packages
@@ -65,6 +66,7 @@ This GitHub is a companion to our blog post ["Recommend Resources for Starting A
 * [PlanOut](http://facebook.github.io/planout/) - FB’s experimentation planning.
 * [PlanAlyzer](https://github.com/KDL-umass/PlanAlyzer/tree/master/ocaml) - Linter for experimental designs implemented in PlanOut.
 * [Ax](https://github.com/facebook/Ax?source=post_page-----6bab1e0d7845----------------------) - Python package to implement adaptive experiments from FB.
+
 
 
 
